@@ -6,6 +6,8 @@ public class PlayerControllerScript : MonoBehaviour
 {
     [SerializeField]
     private float Speed;
+    [SerializeField]
+    private float RotationSpeed;
 
     [SerializeField]
     [Range(0,500)]
@@ -13,22 +15,22 @@ public class PlayerControllerScript : MonoBehaviour
 
     private int NbColliderInTrigger = 0;
 
-    // Update is called once per frame
     void Update()
     {
         float DeltaSpeed = Speed * Time.deltaTime;
-        
+        float DelatRot = RotationSpeed * Time.deltaTime;
+
         if (Input.GetKey(KeyCode.D))
-            GetComponent<Rigidbody>().AddForce(new Vector3(DeltaSpeed, 0, 0));
+            transform.Rotate(new Vector3(0, DelatRot, 0));
 
         if (Input.GetKey(KeyCode.Q))
-            GetComponent<Rigidbody>().AddForce(-new Vector3(DeltaSpeed, 0, 0));
+            transform.Rotate(new Vector3(0, -DelatRot, 0));
 
         if (Input.GetKey(KeyCode.Z))
-            GetComponent<Rigidbody>().AddForce(new Vector3(0, 0, DeltaSpeed));
+            GetComponent<Rigidbody>().AddForce(transform.forward * DeltaSpeed);
 
         if (Input.GetKey(KeyCode.S))
-            GetComponent<Rigidbody>().AddForce(-new Vector3(0, 0, DeltaSpeed));
+            GetComponent<Rigidbody>().AddForce(-transform.forward * DeltaSpeed);
 
         if (Input.GetKeyDown(KeyCode.Space) && NbColliderInTrigger>0 )
             GetComponent<Rigidbody>().AddForce(new Vector3(0, JumpForce, 0));
