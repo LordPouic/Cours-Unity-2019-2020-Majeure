@@ -5,16 +5,16 @@ using UnityEngine;
 public abstract class LifeScript : MonoBehaviour
 {
     [SerializeField]
-    private int CurrentLife;
+    protected int CurrentLife;
 
-    private int MaxLife;
+    protected int MaxLife;
 
     private void Start()
     {
         MaxLife = CurrentLife;
     }
 
-    public void UpdateLife(int nb)
+    public virtual void UpdateLife(int nb)
     {
         CurrentLife += nb;
 

@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControllerScript : MonoBehaviour
+public class ControlFPSScript : MonoBehaviour
 {
     [SerializeField]
     private float Speed;
     [SerializeField]
     private float RotationSpeed;
+    [SerializeField]
+    private float MaxAngleRotationY;
 
     [SerializeField]
-    [Range(0,500)]
+    [Range(0, 500)]
     private float JumpForce;
 
     private int NbColliderInTrigger = 0;
@@ -33,9 +35,11 @@ public class PlayerControllerScript : MonoBehaviour
 
         float Xaxis = Input.GetAxis("Mouse X");
         transform.Rotate(new Vector3(0, Xaxis * DelatRot, 0));
+        float Yaxis = Input.GetAxis("Mouse Y");
+        Camera.main.transform.Rotate(new Vector3(-Yaxis * DelatRot, 0, 0));        
 
 
-        if (Input.GetKeyDown(KeyCode.Space) && NbColliderInTrigger>0 )
+        if (Input.GetKeyDown(KeyCode.Space) && NbColliderInTrigger > 0)
             GetComponent<Rigidbody>().AddForce(new Vector3(0, JumpForce, 0));
 
 

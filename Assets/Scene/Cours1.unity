@@ -796,7 +796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 479e4a250656f18459ec5b7944b84a55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 600
+  Speed: 20
   RotationSpeed: 100
   JumpForce: 309
 --- !u!135 &1878286230
@@ -970,6 +970,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3147870015950213373, guid: b813d5ef24da6c44da789ee263324b33,
+        type: 3}
+      propertyPath: Type
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b813d5ef24da6c44da789ee263324b33, type: 3}
