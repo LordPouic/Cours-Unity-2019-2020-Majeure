@@ -6,7 +6,7 @@ public class BulletScript : MonoBehaviour
 {
 
     [SerializeField]
-    private float Damage;       
+    private int Damage;       
     [SerializeField]    
     private float Lifetime;
 
@@ -24,7 +24,7 @@ public class BulletScript : MonoBehaviour
         Destroy(gameObject);
         if (collision.gameObject.tag == "Ennemis")
         {
-            //TODO damage
+            collision.gameObject.GetComponentInParent<LifeScript>().UpdateLife(-Damage);
         }
 
     }
