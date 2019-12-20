@@ -10,15 +10,23 @@ public class ControlFPSScript : MonoBehaviour
     private float RotationSpeed;
     [SerializeField]
     private float MaxAngleRotationY;
-
     [SerializeField]
     [Range(0, 500)]
     private float JumpForce;
 
     private int NbColliderInTrigger = 0;
 
+    private Rigidbody r;
+
+    void Start()
+    {
+        r = GetComponent<Rigidbody>();
+    }
+
     void Update()
     {
+
+
         float DeltaSpeed = Speed * Time.deltaTime;
         float DelatRot = RotationSpeed * Time.deltaTime;
 
@@ -28,10 +36,10 @@ public class ControlFPSScript : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
             Axe = -1;
 
-        Vector3 CurrentSpeed = GetComponent<Rigidbody>().velocity;
+        Vector3 CurrentSpeed = r.velocity;
         Vector3 MaxSpeed = Axe * Speed * transform.forward;
 
-        GetComponent<Rigidbody>().AddForce(MaxSpeed - CurrentSpeed);
+        r.AddForce(MaxSpeed - CurrentSpeed);
 
         float Xaxis = Input.GetAxis("Mouse X");
         transform.Rotate(new Vector3(0, Xaxis * DelatRot, 0));
@@ -40,8 +48,7 @@ public class ControlFPSScript : MonoBehaviour
 
 
         if (Input.GetKeyDown(KeyCode.Space) && NbColliderInTrigger > 0)
-            GetComponent<Rigidbody>().AddForce(new Vector3(0, JumpForce, 0));
-
+            r.AddForce(new Vector3(0, JumpForce, 0));
 
     }
 

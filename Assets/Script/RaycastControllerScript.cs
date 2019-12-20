@@ -7,6 +7,8 @@ public class RaycastControllerScript : MonoBehaviour
     [SerializeField]
     private GameObject PrefabExplosion;
 
+    public GameEvent g;
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -20,6 +22,7 @@ public class RaycastControllerScript : MonoBehaviour
                 Explo.transform.position = hit.point;
                 Destroy(Explo, 2);
             }
+            g.Raise();
         }
     }
 }
