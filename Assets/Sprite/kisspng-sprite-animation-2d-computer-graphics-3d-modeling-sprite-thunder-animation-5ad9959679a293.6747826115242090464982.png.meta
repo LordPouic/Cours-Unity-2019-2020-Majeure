@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 8283c7c7c359c87499e36bc482f4ebb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8846879139485080887
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_0
+  - first:
+      213: 499079348897285216
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_1
+  - first:
+      213: 4465339896130712905
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_2
+  - first:
+      213: -6763805601506484220
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_3
+  - first:
+      213: -2667350387533709865
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_4
+  - first:
+      213: 3105613267485599471
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_5
+  - first:
+      213: 6138539742975174827
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_6
+  - first:
+      213: -4844871053220754154
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_7
+  - first:
+      213: -7304563835597366727
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_8
+  - first:
+      213: -7578632744574568037
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_9
+  - first:
+      213: 5706180693849918515
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_10
+  - first:
+      213: -3217258901033854124
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_11
+  - first:
+      213: -6008840737503645873
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_12
+  - first:
+      213: 1512015481707432409
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_13
+  - first:
+      213: 5584662724570615852
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_14
+  - first:
+      213: 543230513666240702
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_15
+  - first:
+      213: 6589038855355674202
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_16
+  - first:
+      213: -2460671572965363907
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_17
+  - first:
+      213: -4032287223230170352
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_18
+  - first:
+      213: -4017600812102880361
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_19
+  - first:
+      213: 5451361362786706697
+    second: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f03f2515df4b6445b714bf97905121b
+      internalID: 8846879139485080887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc91203f2d4ed48b0543a25d1a9f25
+      internalID: 499079348897285216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82be79d9519b0247bf2c349e67dc07f
+      internalID: 4465339896130712905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c1c6e349e257489287bc8326f673b
+      internalID: -6763805601506484220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0a6ad5c595334d9f5ea21ad5a3cd2
+      internalID: -2667350387533709865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8baeed17b8fb264084c9993d6879a4c
+      internalID: 3105613267485599471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e6dbbfff066340a1f07532dca1104
+      internalID: 6138539742975174827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573aa62ee6bf7cc4390068c3341431a8
+      internalID: -4844871053220754154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e266b0397f41f4cb6d06ad5593cc75
+      internalID: -7304563835597366727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd53e53937f0f24aaa5cdab8d86439e
+      internalID: -7578632744574568037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ef961b4489f84cb3a0a01bd464a9b
+      internalID: 5706180693849918515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f91d2e8aa01d744b31f3ed6309ebf6
+      internalID: -3217258901033854124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a692e5c47d6e864a897b875e3507d47
+      internalID: -6008840737503645873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de30ff37e28f74e876469cf74ff3de
+      internalID: 1512015481707432409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736b6666a9d997458f1b8db9cb3b0a6
+      internalID: 5584662724570615852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad831014ccd129488124772c91f15ec
+      internalID: 543230513666240702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ac1446d394924f9297f4383dda19a
+      internalID: 6589038855355674202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2d9705d582e34ea39e6317d78f1a6
+      internalID: -2460671572965363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c9a6732527ad14fbcbc6c1ff89361e
+      internalID: -4032287223230170352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd52b3841a4185419e53b5e19bdb6d3
+      internalID: -4017600812102880361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-3d-modeling-sprite-thunder-animation-5ad9959679a293.6747826115242090464982_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c85234e16e0144923cab2ea516b37
+      internalID: 5451361362786706697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

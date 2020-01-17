@@ -28,7 +28,7 @@ public class InputManager : MonoBehaviour
         {
             foreach (Touch t in Input.touches)
             {
-               /* Debug.Log(t.position);
+                /*Debug.Log(t.position);
                 if (t.position.x > Screen.width / 2)
                 {
                     //touch droite
@@ -36,10 +36,10 @@ public class InputManager : MonoBehaviour
                 else
                 {
                     //touch gauche
-                }
+                }*/
 
                 Debug.Log(t.phase); 
-                */
+                
                 if (t.phase == TouchPhase.Began)
                 {
                     StartPositionSwipe = t.position;
